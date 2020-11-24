@@ -1,0 +1,4 @@
+.env
+.idea
+.bash_history
+node_modules
